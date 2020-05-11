@@ -1,0 +1,2 @@
+RangeRatingsPart0,1,364,0.5
+RoundRobinRatingsPart4,1,364,0.5
