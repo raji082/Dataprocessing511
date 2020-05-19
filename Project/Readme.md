@@ -1,1 +1,0 @@
-Geospatial data analysis
